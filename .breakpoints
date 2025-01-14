@@ -1,0 +1,28 @@
+{
+  "files": {
+    "appstate.json": [
+      {
+        "id": "d7b895f1-3fc2-4225-9505-bc7b0201cbe9",
+        "line": 1,
+        "version": 7,
+        "index": 0
+      }
+    ],
+    "config/config.main.json": [
+      {
+        "id": "2c10df5d-8157-46cc-8891-76f9e4ef7a53",
+        "line": 14,
+        "version": 5,
+        "index": 361
+      }
+    ],
+    "index.js": [
+      {
+        "id": "24e5eb17-4613-4e65-afc4-dd0262a2d82d",
+        "line": 7,
+        "version": 2,
+        "index": 256
+      }
+    ]
+  }
+}
